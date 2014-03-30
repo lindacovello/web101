@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+h1.display
+{
+	display:inline;
+}
+
+#blue
+{
+	background-color:#00FFFF;
+}
+#purple
+{
+	background-color:#FF66FF;
+}
+#yellow
+{
+	background-color:#FFFF66;
+}
+#green
+{
+	background-color:#66FF33;
+	
+}
+#orange
+{
+	background-color:#FFCC00;
+}
